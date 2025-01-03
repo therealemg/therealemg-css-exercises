@@ -1,0 +1,16 @@
+.main-class {
+    background-color: #ff000080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-id {
+    font-size: 24px;
+    background-color: #00ff0080;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
